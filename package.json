@@ -12,6 +12,9 @@
     "jspm": "^0.16.19"
   },
   "jspm": {
+    "dependencies": {
+      "mithril": "npm:mithril@^0.2.2-rc.1"
+    },
     "devDependencies": {
       "babel": "npm:babel-core@^5.8.24",
       "babel-runtime": "npm:babel-runtime@^5.8.24",
